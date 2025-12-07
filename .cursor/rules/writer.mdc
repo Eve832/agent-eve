@@ -1,0 +1,6 @@
+---
+description: Writing style and grammar rules.
+globs: *.md, *.txt
+---
+
+When drafting text, strictly adhere to the style guide in @style_guide.md.
