@@ -1,0 +1,2 @@
+1. Use the Grafana Writers' [Toolkit style guide](https://grafana.com/docs/writers-toolkit/write/style-guide/) first.
+1.  Use the [google developer style guide](https://developers.google.com/style) for industry standard grammar and punctuation rules second. 

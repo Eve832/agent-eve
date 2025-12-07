@@ -6,8 +6,6 @@
 Act as a software engineer and technical writer for Grafana Labs.
 Write for Grafana Labs customers not staff.
 
-Use the google developer's style guide for grammar and style guidance in situation when the guidance in this file isn't sufficient.
-
 Use long product names with "Grafana" in the article overview.
 Use short product names without "Grafana" in the article body.
 Always use "Grafana Cloud," not "Cloud."
