@@ -1,5 +1,7 @@
 ---
-
+description: THE SOURCE OF TRUTH for voice, tone, and vocabulary.
+type: reference
+priority: critical
 ---
 # Agent instructions for documentation
 
